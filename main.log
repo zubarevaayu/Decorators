@@ -1,0 +1,5 @@
+call_time - 2025-06-06 21:07:11.862745, func_name - hello_world, arguments - ((), {}), result = Hello World
+call_time - 2025-06-06 21:07:11.870633, func_name - summator, arguments - ((2, 2), {}), result = 4
+call_time - 2025-06-06 21:07:11.881960, func_name - div, arguments - ((6, 2), {}), result = 3.0
+call_time - 2025-06-06 21:07:11.889068, func_name - summator, arguments - ((4.3,), {'b': 2.2}), result = 6.5
+call_time - 2025-06-06 21:07:11.896031, func_name - summator, arguments - ((), {'a': 0, 'b': 0}), result = 0
